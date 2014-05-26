@@ -1,4 +1,4 @@
 vagrant
 =======
 
-vagrant quick install
+Version BAT para inicio rapido 
